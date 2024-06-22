@@ -1,8 +1,0 @@
-the following tools can be used during the competition:
-[1] For Forensics and steganography: Google, exiftool(exiftool [fileName], Binwalk[binwalk -e [filename]]
-https://www.aperisolve.com/
-
-[2]For Crypto: online decoders: https://www.dcode.fr/ and search online. similary, we could use linux, for base64, echo [ciphertext] | base64 -d
-
-
-[3]For Binary Exploitation: https://dogbolt.org/, ghidra, BinaryNinja
